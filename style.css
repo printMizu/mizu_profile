@@ -103,7 +103,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/pictures/pic1.png') no-repeat;
+    background: url('/pictures/pic1.jpg') no-repeat;
     background-size: cover;
     background-position:center ;
 }
